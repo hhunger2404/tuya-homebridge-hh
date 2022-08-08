@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-hh",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Official Homebridge plugin for Tuya Open API, maintained by the Tuya Developer Team.",
   "main": "index.js",
   "scripts": {

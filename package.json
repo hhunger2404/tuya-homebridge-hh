@@ -1,6 +1,6 @@
 {
   "name": "homebridge-tuya-hhunger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Official Homebridge plugin for Tuya Open API, maintained by the Tuya Developer Team.",
   "main": "index.js",
   "scripts": {
